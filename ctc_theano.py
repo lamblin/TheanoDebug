@@ -1,4 +1,6 @@
 # coding:utf-8
+from __future__ import print_function
+
 __author__ = 'dawei.leng'
 __version__ = '1.36'
 """
